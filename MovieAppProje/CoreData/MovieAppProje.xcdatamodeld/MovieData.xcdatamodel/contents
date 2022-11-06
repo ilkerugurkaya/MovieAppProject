@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21279" systemVersion="22A380" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MovieData" representedClassName="MovieData" syncable="YES" codeGenerationType="class">
+        <attribute name="imagee" optional="YES" attributeType="String"/>
+        <attribute name="languagee" optional="YES" attributeType="String"/>
+        <attribute name="likevote" optional="YES" attributeType="String"/>
+        <attribute name="orititle" optional="YES" attributeType="String"/>
+        <attribute name="overvieww" optional="YES" attributeType="String"/>
+        <attribute name="titlee" optional="YES" attributeType="String"/>
+    </entity>
+</model>
